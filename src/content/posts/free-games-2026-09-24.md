@@ -23,7 +23,10 @@ lang: ''
 
 它的核心乐趣不在微操，而在开战前的布阵和针对：选什么机甲、怎么升级、摆什么阵型去"预判"对手的套路。几百台机甲同屏开火的场面相当壮观，而你只需要在回合间喝口水、重新布局。游戏 2024 年 9 月正式版发售以来在 Steam 保持了不错的口碑，自走棋爱好者值得一试。
 
-- 🎬 官方预告片：<https://youtu.be/1fk1-CQgxYE>
+🎬 预告片（B 站，可直接播放）：
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;"><iframe src="https://player.bilibili.com/player.html?bvid=BV1nmec6fEWr" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe></div>
+
 - 📅 领取截止：北京时间 **2026 年 10 月 1 日 23:00**（Epic 通常在每周四同一时间轮换）
 - 💰 原价：$14.99
 - 🎮 领取方式：登录 Epic Games Store，打开游戏页面加入购物车结算即可，入库后永久保留
@@ -36,7 +39,10 @@ lang: ''
 
 它的口碑很硬：OpenCritic 均分 87，Steam 好评率 88%（1000+ 评价）。注意这款游戏 2024 年 12 月曾作为 Epic 神秘游戏送过一天，所以部分老玩家库里可能已经有了，先检查一下再领。
 
-- 🎬 官方预告片：<https://www.youtube.com/watch?v=OohM_Ue44hc>
+🎬 宣传片（B 站，可直接播放）：
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;"><iframe src="https://player.bilibili.com/player.html?bvid=BV1Bq4y1t7g8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe></div>
+
 - 📅 领取截止：北京时间 **2026 年 10 月 1 日 23:00**
 - 💰 原价：$24.99
 - 🎮 领取方式：同上，Epic 商店页面免费领取入库
