@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Roboto", "sans-serif", ...defaultTheme.fontFamily.sans],
+        // 极简白（衬线文人风）：全站宋体化，缺失时逐级回退
+        sans: ["Noto Serif SC", "LXGW WenKai", "Songti SC", "STSong", "SimSun", "Georgia", "serif"],
       },
     },
   },
