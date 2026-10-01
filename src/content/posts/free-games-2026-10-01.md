@@ -31,7 +31,7 @@ lang: ''
 
 韩国 Studio LARGO（《黑房》《灰色都市》班底）与 LINE Games 联手打造的悬疑冒险游戏。一档素人生存选秀节目的直播现场突发建筑坍塌，参赛者和工作人员被困废墟之中，紧接着又爆发了杀人事件——凶手是谁、动机是什么，全靠你扮演参赛者韩道允去查。
 
-玩法核心是"沟通 × 生存"：在 3D 废墟场景里搜集线索，翻看游戏内虚构社交网络 Phater 上的留言和动态，再把关键词带进与幸存者的对话里盘问。多分支、多结局，还有韩日双语全配音。Steam 上"极度好评"，OpenCritic 均分 81，原价 $39.99。
+玩法核心是"沟通 × 生存"：在 3D 废墟场景里搜集线索，翻看游戏内虚构社交网络 Phater 上的留言和动态，再把关键词带进与幸存者的对话里盘问。多分支、多结局，还有韩日双语全配音。Steam 上"特别好评"（84% 好评率），OpenCritic 均分 81，原价 $39.99。
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;"><iframe src="https://www.youtube.com/embed/xJc5tE59cwM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe></div>
 
@@ -62,7 +62,7 @@ lang: ''
 
 ![Weakless](https://i0.wp.com/indie-hive.com/wp-content/uploads/2020/03/Weakless-Key-Art.jpg?resize=768%2C432&ssl=1)
 
-四款原价合计约 $45。**领取方式**：有 Prime 会员的话，在 Amazon Prime Gaming 页面领取 GOG 兑换码，再到 GOG 兑换即可，10 月内有效。
+**领取方式**：有 Prime 会员的话，在 Amazon Prime Gaming 页面领取 GOG 兑换码，再到 GOG 兑换即可，10 月内有效。
 
 ## Steam：治愈小品即将免费入库
 
@@ -78,13 +78,12 @@ Steam 后端信息确认，这款以"对话"为核心的治愈系小品将在 10
 
 ### Steam 其他动态
 
-- **免费 DLC 小菜**：10 月 Steam 还会送一批新游戏的免费装饰 DLC——《MXGP 26》的涂装包（随 10 月 1 日发售同步上线）、《Gear.Club Unlimited 3》签名包（10 月 8 日）、《Hunting Simulator 3》猎人包（10 月 29 日），以及《Rotwood》的首个 DLC（日期待定）。玩这些游戏的可以顺手领了。
-- **《F1 25》免费试玩**：完整版游戏免费体验到 10 月 20 日，喜欢再买还有 7 折。
+- **免费 DLC 小菜**：10 月 Steam 还会送一批新游戏的免费装饰 DLC——《MXGP 26》的涂装包、《Gear.Club Unlimited 3》签名包、《Hunting Simulator 3》猎人包，以及《Rotwood》的首个 DLC。具体领取时间以商店页面为准，玩这些游戏的可以顺手领了。
 - **Steam 秋季特卖**今天开启（10.1 – 10.8），虽然不算免费，但想补恐怖游戏库存的可以逛逛。
 
 ## Humble Bundle：本月暂无免费领
 
-Humble 这边 9 月的 Choice 套餐（《Frostpunk 2》《Sonic X Shadow Generations》领衔）这两天就截止了，10 月的新阵容还没公布。本周没有可直接领取的免费游戏，有消息会第一时间跟进。
+Humble 这边 9 月的 Choice 套餐（《Frostpunk 2》《Sonic X Shadow Generations》领衔）这两天就截止了，10 月的新阵容还没公布。本周没有发现可直接领取的免费游戏，有消息会第一时间跟进。
 
 ## 领取方式汇总
 
@@ -96,6 +95,6 @@ Humble 这边 9 月的 Choice 套餐（《Frostpunk 2》《Sonic X Shadow Genera
 | 钢铁指挥官 | Epic | 今晚（10 月 1 日约 23:00） |
 | DOOM / DOOM II / Zoria / Weakless | GOG（需 Prime 会员） | 10 月内 |
 | Fireside Feelings | Steam | 10 月内，日期待定 |
-| F1 25 免费试玩 | Steam | 10 月 20 日 |
 
 Epic 的领取姿势老样子：登录账号，打开商店页面点"获取"，0 元下单即入库，不用下载也能先占为己有。今晚别忘了先把《Astrea》和《钢铁指挥官》收了，再迎接《System Shock 2》——十月开局，相当可以。
+
