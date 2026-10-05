@@ -119,3 +119,31 @@
     }
     
 }
+
+/* ============================================================
+ * LOFTER 复刻 · 极简白 —— 正文排版
+ * markdown.css 位于打包顺序末尾，此处规则优先生效。
+ * ============================================================ */
+.prose,
+.custom-md {
+    line-height: 2.05;
+    letter-spacing: 0.02em;
+}
+
+.prose {
+    font-size: 16.5px;
+}
+
+.custom-md h1,
+.custom-md h2,
+.custom-md h3,
+.custom-md h4,
+.custom-md h5,
+.custom-md h6 {
+    letter-spacing: 0.06em;
+    font-weight: 600;
+}
+
+.custom-md img {
+    filter: saturate(0.82) contrast(0.98);
+}
