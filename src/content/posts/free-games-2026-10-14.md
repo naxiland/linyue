@@ -67,7 +67,7 @@ lang: ''
 
 - **Prime（Luna）同批到期**：经由 Epic 领取的 Botany Manor、Drop Duchy 也是今天（10 月 14 日）截止；GOG 码的 DOOM（2016）可领到 11 月 4 日，Conarium 到 11 月 11 日，Weakless 与 Zoria: Age of Shattering 到 10 月 28 日，WarBreeds 到 2027 年 1 月 8 日。都需要 Prime 会员。
 - **Steam DLC 余量**：Rotwood 的 Drakin Armoury Pack、MXGP 26 的 Scrubdesignz 涂装包免费领到 10 月 16 日凌晨 1 点（北京时间）。
-- **Humble Choice 十月包**（订阅制 $14.99/月，非免费）：Like a Dragon: Pirate Yakuza in Hawaii、Psychonauts 2、Prince of Persia: The Lost Crown、Deep Rock Galactic: Survivor、Cataclismo、Dungeons & Degenerate Gamblers、Asgard's Fall: Viking Survivors、Toy Shire 共八款，11 月 3 日凌晨 1 点（北京时间）前可领。
+- **Humble Choice 十月包**（订阅制 $14.99/月，非免费）：Like a Dragon: Pirate Yakuza in Hawaii、Psychonauts 2、Prince of Persia: The Lost Crown、Deep Rock Galactic: Survivor、Cataclismo、Dungeons & Degenerate Gamblers、Asgard's Fall: Viking Survivors、Toy Shire 共八款，11 月 4 日凌晨 2 点（北京时间）前可领。
 - **Steam Next Fest**：10 月 19 日至 26 日，数百款未发售新游放出免费 Demo，想提前试玩的可以开始列愿望单了。
 
 ## 🧾 领取方式汇总
@@ -75,4 +75,4 @@ lang: ''
 - **Epic**：Out of Sight、TerraScape —— 10 月 15 日 23:00（北京时间）截止；Agent A、Bad Cheese —— 10 月 15 日 23:00 开领。
 - **GOG（经 Prime/Luna 领兑换码）**：DOOM + DOOM II —— 10 月 14 日当天截止；DOOM（2016）、Conarium 等后续批次见上文。
 - **Steam**：Buissons（经 Legion Gaming Community 活动页）—— 10 月 14 日开启限时领取；Arena of Trophies —— 10 月 22 日下架前免费入库；两款 DLC —— 10 月 16 日凌晨 1 点截止。
-- **Humble Choice**：十月八款订阅包，11 月 3 日凌晨 1 点（北京时间）前可领。
+- **Humble Choice**：十月八款订阅包，11 月 4 日凌晨 2 点（北京时间）前可领。
