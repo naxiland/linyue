@@ -60,7 +60,7 @@ Epic 已官宣：**10 月 29 日至 11 月 5 日**，恐怖季压轴的是这款
 
 ## 领取方式汇总
 
-- **Epic Games Store**：本周无新轮换，《Sker Ritual》《Home》免费到 10 月 29 日 23:00（北京时间）；下周 **10 月 30 日** 23:00 上架《Sorry We're Closed》。
+- **Epic Games Store**：本周无新轮换，《Sker Ritual》《Home》免费到 10 月 29 日 23:00（北京时间）；《Sorry We're Closed》10 月 29 日 23:00（北京时间）接棒，领到 11 月 6 日 00:00（北京时间）下架。
 - **Steam**：《DeadPoly》免费周末试玩到 10 月 27 日凌晨 1 点；Next Fest 试玩到 10 月 26 日。
 - **Prime Gaming / Amazon Luna（需 Prime 会员）**：本周四已开放《Ad Infinitum》（Epic 码）与《Time Travel: Escape Room Game》（Legacy Games 码）；另有 GOG 码《Weakless》《Zoria: Age of Shattering》《DOOM》（2016）《Conarium》等待领取，兑换后永久保留。
 - **Humble Bundle**：Humble Choice 十月档（《如龙 8 外传：夏威夷海盗》《波斯王子：失落的王冠》《Psychonauts 2》等 8 款 Steam 游戏，订阅 $14.99/月）11 月 3 日轮换，还没订阅的可以看一眼阵容再决定。
