@@ -65,7 +65,7 @@ IsaoWorks 的肉鸽卡牌新作《Hex Reverse》于 10 月 7 日在 Steam 发售
 
 - **GOG**：本周暂无直接免费送的游戏。Prime Luna 会员手里的 GOG 兑换码还在有效期内：Weakless、Zoria: Age of Shattering（10 月 28 日截止）、DOOM 2016（11 月 4 日截止）、Conarium（11 月 11 日截止）、WarBreeds（2027 年 1 月 8 日截止）。
 - **Humble**：Humble Choice 10 月包仍在售（Like a Dragon: Pirate Yakuza in Hawaii、Prince of Persia: The Lost Crown、Psychonauts 2 等 8 款，11 月 3 日截止，订阅制非免费）；Akupara 10 周年捆绑包今天（10 月 24 日）结束。
-- **下周预告**：Epic 10 月 29 日轮换后送出复古动作游戏《Sorry We're Closed》，持续到 11 月 5 日。
+- **下周预告**：Epic 10 月 29 日轮换后送出生存恐怖游戏《Sorry We're Closed》，10 月 29 日 23:00（北京时间）接棒、领到 11 月 6 日 00:00（北京时间）下架。
 
 ## 领取方式汇总
 
