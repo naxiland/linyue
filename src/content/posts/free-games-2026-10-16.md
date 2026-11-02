@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：特工 A、坏奶酪免费领（10.16）
 published: 2026-10-16
 description: 'Epic 本周送出复古谍战解谜《Agent A》和黑白卡通恐怖《Bad Cheese》，Steam 有卡牌肉鸽 Hex Reverse 限时免费，Prime 会员还能白嫖《DOOM（2016）》GOG 版。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-16-agent-a.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
