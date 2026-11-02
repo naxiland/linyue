@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 双作与 Steam DLC 都剩 2 天，DOOM 双作明天截止（10.13）
 published: 2026-10-13
 description: '今天没有新免费游戏，但手速要加快：Epic 的 Out of Sight 与 TerraScape、Steam 两个 DLC 都只剩 2 天，经典的 DOOM + DOOM II 明天截止；附下周 Agent A / Bad Cheese 接档预告。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-13-out-of-sight.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG']
 category: '游戏'
 draft: false
