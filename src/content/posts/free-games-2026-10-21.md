@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：22 合 1 塔罗游戏合集永久免费 + Epic 跑酷小游白送（10.21）
 published: 2026-10-21
 description: 'Steam 22 合 1 独立游戏合集《Cartomancy Anthology》无预告转永久免费，Epic 跑酷小游《GetHigh.EXE》限免到 11 月 3 日凌晨；另有三款 Prime 免费游戏 10 月 21 日到期、Epic 10 月 22 日 23 点轮换。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-21-tarot.jpg'
 tags: ['免费游戏', 'Epic', 'Steam']
 category: '游戏'
 draft: false
