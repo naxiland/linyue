@@ -2,7 +2,7 @@
 title: 每日读书分享：《英雄志》——孙晓笔下的"英雄与天命"（10.22）
 published: 2026-10-22
 description: '孙晓用二十年写就的三百二十万字武侠长卷：土木堡之变后的明朝，四个年轻人在大时代里寻找"英雄"的答案。'
-image: 'http://img.xingxiaoculture.com/origin/2025/07/03/10d06de87610a12d93bb6e4930482ab81751508062.jpg'
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/book-share/2026-10-22-yingxiongzhi.jpg'
 tags: ['读书分享', '武侠']
 category: '读书'
 draft: false
