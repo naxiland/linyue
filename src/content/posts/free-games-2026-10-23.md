@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：DeadPoly 免费周末试玩，Ad Infinitum 正式开放领取（10.23）
 published: 2026-10-23
 description: "Steam 迎来 DeadPoly 免费周末，10 月 26 日前可免费畅玩；Prime 本周四新增的 Ad Infinitum 与 Time Travel: Escape Room Game 已正式开放领取；Epic 下周预告 Sorry We're Closed。"
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-23-deadpoly.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
