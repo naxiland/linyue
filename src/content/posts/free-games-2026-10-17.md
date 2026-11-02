@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Agent A、Bad Cheese 免费领（10.17）
 published: 2026-10-17
 description: '本周 Epic 送出复古间谍解谜 Agent A 与黑白动画风恐怖游戏 Bad Cheese，Steam 上六角卡牌肉鸽 Hex Reverse 首发 30 天免费领，Humble Choice 十月阵容含如龙8外传与 Psychonauts 2。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-17-agent-a.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle', 'GOG']
 category: '游戏'
 draft: false
