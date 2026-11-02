@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 喜加二《阿斯特雷亚》+《钢铁指挥官》，Prime 会员 GOG 再领《DOOM》（9.29）
 published: 2026-09-29
 description: 'Epic 本周免费送《Astrea: Six-Sided Oracles》和《钢铁指挥官》，10 月 1 日截止；Amazon Prime 会员十月可在 GOG 领取 DOOM 等四款游戏；Steam 上还有一款今晚截止的免费 DLC。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-29-astrea.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
