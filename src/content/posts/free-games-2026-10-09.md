@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Out of Sight、TerraScape 免费领（10.9）
 published: 2026-10-09
 description: 'Epic 本周送出恐怖解谜《Out of Sight》与休闲建造《TerraScape》；Prime 会员可领《DOOM（2016）》《Conarium》《WarBreeds》GOG 兑换码；Steam《Jaywalk》10 月 13 日前免费入库。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-09-out-of-sight.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
