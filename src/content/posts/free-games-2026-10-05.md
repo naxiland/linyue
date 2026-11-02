@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Bounty Train 免费送今晚截止，Epic 双作最后 3 天（10.5）
 published: 2026-10-05
 description: 'GOG 的《Bounty Train》免费领取今晚 9 点就截止，Epic 的《网络奇兵2：25周年重制版》《深埋之星》进入倒计时 3 天，Steam 上《Jaywalk》无限街机跳跃免费保留至 10 月 13 日。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-05-bounty-train.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
