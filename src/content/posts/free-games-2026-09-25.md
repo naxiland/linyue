@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：骰子构筑《Astrea》、机甲自走棋《Mechabellum》免费领，Steam 周末双游免费试玩（9.25）
 published: 2026-09-25
 description: 'Epic 本周喜加二：《Astrea: Six-Sided Oracles》《Mechabellum》免费入库（截至 10.1）；Steam 免费周末《Squad》《加油站大亨》开玩（截至 9.28）；Humble Choice 本月阵容速览。'
-image: 'http://pressreleases.triplepointpr.com/wp-content/uploads/Mechabellum_Keyart_16x9-850x478.png'
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-25-mechabellum.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
