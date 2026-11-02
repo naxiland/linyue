@@ -2,7 +2,7 @@
 title: 每日读书分享：《白鹿原》——白嘉轩腰杆挺直的五十年（10.1）
 published: 2026-10-01
 description: '陈忠实用四年笔耕写成的五十万字史诗：从清末到解放战争，白鹿两家三代人的恩怨，折射出一个民族在土地上的沉浮。'
-image: 'http://mmbiz.qpic.cn/mmbiz_jpg/RmEmiaIjMl55oOvfTJmC8NQAkkpJu6JakegBSLcSVr7xtGGK27qZDJxaH6uNO6rzcsOasBIjXZotWgHgYcZ0VGA/0?wx_fmt=jpeg'
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/book-share/2026-10-01-bailuyuan.jpg'
 tags: ['读书分享', '历史']
 category: '读书'
 draft: false
