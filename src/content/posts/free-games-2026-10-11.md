@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Out of Sight、TerraScape 免费领，Pony Island 明天截止（10.11）
 published: 2026-10-11
 description: 'Epic 本周继续送 Out of Sight 和 TerraScape，Steam 的 Pony Island 明天凌晨就截止了，Prime 会员还能在 GOG 领到 DOOM（2016）与 Conarium。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-11-out-of-sight.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
