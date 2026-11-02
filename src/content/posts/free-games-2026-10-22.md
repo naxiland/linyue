@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Sker Ritual、Home 免费领，Agent A、Bad Cheese 今晚 11 点截止（10.22）
 published: 2026-10-22
 description: 'Epic 周四轮换：Sker Ritual、Home 上架免费领至 10 月 29 日，Agent A、Bad Cheese 今晚 11 点截止；GOG 经 Prime 领取 Weakless 与 DOOM（2016）；Steam 的 Arena of Trophies 下架前最后免费。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-22-sker-ritual.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
