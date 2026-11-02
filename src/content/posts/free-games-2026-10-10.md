@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 恐怖解谜加建城双份、Steam 白送《Pony Island》，还有《毁灭战士》免费领（10.10）
 published: 2026-10-10
 description: 'Epic 本周送恐怖解谜 Out of Sight 和建城小品 TerraScape；Steam 限时白送《Pony Island》；Prime 会员可领 DOOM 2016 GOG 兑换码；Humble Choice 十月上架《如龙8外传：夏威夷海盗》等八款游戏。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-10-out-of-sight.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
