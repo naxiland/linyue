@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 喜加二明天 23 点截止，Humble Choice 本月阵容最后一周（9.30）
 published: 2026-09-30
 description: 'Epic 的《阿斯特雷亚》《钢铁指挥官》明晚（10 月 1 日）23 点截止领取；Humble Choice 本月阵容 10 月 6 日换新；明天 Epic 上架《深埋之星》和《System Shock 2》重制版。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-30-mechabellum.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
