@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Sker Ritual、Home 明天截止，911 Operator 也快到期了（10.28）
 published: 2026-10-28
 description: 'Epic 本周的两款万圣节恐怖游戏明天截止，Steam 的 911 Operator 限时免费也进入倒计时，GOG 的两款 Prime 兑换码今天到期。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-28-sker-ritual.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
