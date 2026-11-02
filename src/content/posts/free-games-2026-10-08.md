@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Out of Sight、TerraScape 开领，ARC Raiders 免费周末（10.8）
 published: 2026-10-08
 description: 'Epic 周四轮换：恐怖解谜 Out of Sight 与休闲城建 TerraScape 今晚 23 点开领；ARC Raiders 免费试玩周末开启；Prime Gaming 新增 Conarium 与 WarBreeds 的 GOG 兑换码。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-08-out-of-sight.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
