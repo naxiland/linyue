@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：阿斯特赖亚、钢铁指挥官免费领（9.28）
 published: 2026-09-28
 description: 'Epic 本周喜加二：骰子肉鸽《阿斯特赖亚》与机甲自走棋《钢铁指挥官》，手机端还有《卡牌末日》；Steam《战术小队》《加油站模拟器》免费周末今晚结束；Humble Choice 9 月阵容含《冰汽时代2》。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-28-astrea.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
