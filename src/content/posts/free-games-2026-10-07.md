@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：网络奇兵2、深埋之星今晚 23 点截止，JAYWALK 免费领（10.7）
 published: 2026-10-07
 description: 'Epic 本周的两款免费游戏今晚 23 点截止领取，Steam 上的 JAYWALK 和 Eco Inc. Save the Earth 也在限时免费中，另附 GOG、Humble 与下周预告。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-07-system-shock-2.jpg'
 tags: ['免费游戏', 'Epic', 'Steam']
 category: '游戏'
 draft: false
