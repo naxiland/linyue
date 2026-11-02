@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：《战地 6》免费试玩 10 月 21 日凌晨截止，Epic 双游进入 3 天倒计时（10.19)
 published: 2026-10-19
 description: '《战地 6》Steam 免费试玩延期至 10 月 21 日凌晨 1 点结束，是今天最值得打开的；《Arena of Trophies》下架前免费领剩 3 天，Epic 的 Agent A 与 Bad Cheese 10 月 22 日轮换。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-19-battlefield-6.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle', 'GOG']
 category: '游戏'
 draft: false
