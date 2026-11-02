@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：《伪装游戏》《烂奶酪》领完最后两天（10.20）
 published: 2026-10-20
 description: 'Epic 本周的《Agent A：伪装游戏》和《Bad Cheese：烂奶酪》10 月 22 日晚 11 点截止，Steam 卡牌肉鸽新游 Hex Reverse 首发 30 天免费领，下周 Epic 换上 Sker Ritual 与 Home。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-20-agent-a.jpg'
 tags: ['免费游戏', 'Epic', 'Steam']
 category: '游戏'
 draft: false
