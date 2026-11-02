@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Sorry We're Closed、Hexologic 免费领（10.30）
 published: 2026-10-30
 description: 'Epic 本周免费送复古生存恐怖游戏 Sorry We’re Closed，Steam 的六边形数独 Hexologic 免费领只剩最后两天。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-30-sorry-were-closed.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG']
 category: '游戏'
 draft: false
