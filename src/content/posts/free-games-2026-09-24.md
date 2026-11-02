@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Mechabellum、Astrea 免费领（9.24）
 published: 2026-09-24
 description: 'Epic 周四准时上新：科幻机甲自走棋 Mechabellum 与掷骰构筑 Roguelike Astrea 免费领，两款合计价值近 40 美元，领取到 10 月 1 日；上周的 Mindcop 和 Shogun Showdown 只剩今晚最后几个小时。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-24-mechabellum.jpg'
 tags: ['免费游戏', 'Epic', 'Humble Bundle']
 category: '游戏'
 draft: false
