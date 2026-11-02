@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Arena of Trophies 下架前最后 4 天，Epic 两款进入倒计时（10.18）
 published: 2026-10-18
 description: '今天没有新游上线，但有几份"再不领就没了"的提醒：Arena of Trophies 下架前白嫖只剩 4 天，Epic 的 Agent A 和 Bad Cheese 周四轮换，Squad 皮肤包 DLC 免费到 10 月 25 日。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-18-agent-a.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle', 'GOG']
 category: '游戏'
 draft: false
