@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：万圣节档期，Sorry We're Closed、Asleep、Hexologic 免费领（10.31）
 published: 2026-10-31
 description: '万圣节当天免费游戏扎堆：Epic 的 Sorry We''re Closed 可领到 11 月 5 日，GOG 的 A New Beginning: Final Cut 限免到 11 月 2 日，Steam 的 Asleep: Act 1 与 Hexologic 今天就截止，先领再说。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-31-sorry-were-closed.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
