@@ -2,7 +2,7 @@
 title: 每日读书分享：《天意》——当韩信遇上“天意”，历史还能由人改写吗？（11.1）
 published: 2026-11-01
 description: '钱莉芳的历史科幻长篇：秦末汉初的韩信，与一股藏在上古神话里的神秘力量相遇，王朝兴亡的背后，究竟是天意，还是人意？'
-image: 'https://i1.hdslb.com/bfs/archive/4bfbeb955508928d61067dc7d0f098a088e4111d.jpg'
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/book-share/2026-11-01-tianyi.jpg'
 tags: ['读书分享', '科幻']
 category: '读书'
 draft: false
