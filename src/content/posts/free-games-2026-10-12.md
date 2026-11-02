@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Pony Island 今日最后机会、Epic 双作还剩 3 天（10.12）
 published: 2026-10-12
 description: 'Pony Island 在 Steam 的限免今晚结束；Epic 的 Out of Sight 与 TerraScape 只剩 3 天；附下周 Agent A / Bad Cheese 接档预告。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-12-pony-island.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG']
 category: '游戏'
 draft: false
