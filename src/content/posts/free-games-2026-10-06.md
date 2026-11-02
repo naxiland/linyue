@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：《网络奇兵2：25周年重制版》《深埋之星》免费领（10.6）
 published: 2026-10-06
 description: 'Epic 两款大作仅剩两天领取期限，Prime 会员可在 GOG 领取《毁灭战士》合集等四款游戏，下周还有新免费游戏轮换。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-06-system-shock-2.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
