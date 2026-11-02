@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 万圣节恐怖双雄只剩 2 天，Steam 卡牌新游免费领（10.27）
 published: 2026-10-27
 description: 'Epic 本周的 Sker Ritual 与 Home 将于 10 月 29 日截止领取，Steam 的六角格卡牌肉鸽 Hex Reverse 可免费领到 11 月 7 日，另有 GetHigh.EXE 与下周预告。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-27-sker-ritual.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
