@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Sker Ritual、Home 免费领，Terraspace 明早截止（10.26）
 published: 2026-10-26
 description: '本周 Epic 免费送两款万圣节恐怖游戏 Sker Ritual 与 Home，Terraspace 明早截止，Steam 上 Hex Reverse 可永久白嫖。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-26-sker-ritual.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG']
 category: '游戏'
 draft: false
