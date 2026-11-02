@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：System Shock 2、深埋之星免费领（10.2）
 published: 2026-10-02
 description: 'Epic 本周送出 System Shock 2 重制版与悬疑冒险《深埋之星》，GOG 搭 Prime Gaming 送四款游戏，Steam 也有下架前喜加一和免费 DLC。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-02-system-shock-2.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
 draft: false
