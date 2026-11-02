@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：网络奇兵2 重制版、深埋之星免费领，赏金列车明日截止（10.4）
 published: 2026-10-04
 description: 'Epic 本周送出网络奇兵2：25周年重制版和深埋之星，GOG 的赏金列车免费领只剩不到两天，Steam 十月免费领计划也有新动态。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-04-system-shock-2.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
