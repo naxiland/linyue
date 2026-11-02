@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：DOOM 双作今日截止、Epic 两款明晚下架（10.14）
 published: 2026-10-14
 description: 'DOOM + DOOM II 的 GOG 兑换今天截止，Epic 的 Out of Sight 与 TerraScape 明晚 11 点下架，Steam 还有 Buissons 和 Arena of Trophies 可白嫖，下周 Epic 换上 Agent A 与 Bad Cheese。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-14-doom.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
