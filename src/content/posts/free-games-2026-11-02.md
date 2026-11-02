@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：两款今晚截止，Epic 恐怖佳作还剩 4 天（11.2）
 published: 2026-11-02
 description: 'GOG《A New Beginning: Final Cut》与 Steam《Asleep: Act 1》都在今晚到明晨截止，Epic《Sorry We’re Closed》还剩 4 天，Steam 另有新免费的《Last Gambit》。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-02-a-new-beginning.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
