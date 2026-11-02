@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Astrea、钢铁指挥官免费领（9.27）
 published: 2026-09-27
 description: '本周 Epic 送出骰子构筑 Roguelike《Astrea: Six-Sided Oracles》与机甲自走棋《钢铁指挥官》，Steam 周末免费试玩《Squad》《加油站模拟器》，育碧商店《荣耀战魂》限免只剩最后两天。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-09-27-astrea.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
