@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Epic 今晚轮换《Sorry We're Closed》，Prime 新送《Trash Goblin》《Kiborg》（10.29）
 published: 2026-10-29
 description: "Epic 今晚 23 点轮换，口碑生存恐怖游戏《Sorry We're Closed》接棒免费一周；Prime Gaming 十月最后一对免费游戏《Trash Goblin》《Kiborg》今日上线；别忘了今晚到期的《Sker Ritual》和《Home》。"
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-29-sorry-were-closed.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
