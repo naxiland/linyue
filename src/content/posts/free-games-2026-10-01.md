@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：《System Shock 2》重制版、《深埋之星》免费领（10.1）
 published: 2026-10-01
 description: 'Epic 十月开门双重奏：科幻恐怖经典《System Shock 2》25 周年重制版与韩式悬疑视觉小说《深埋之星》免费领；Prime 会员可在 GOG 免费拿下《DOOM》《DOOM II》等四款游戏；Steam 的治愈小品《Fireside Feelings》也即将免费入库。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-01-system-shock-2.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
