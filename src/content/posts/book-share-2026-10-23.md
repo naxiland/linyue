@@ -2,7 +2,7 @@
 title: 每日读书分享：《白夜行》——东野圭吾笔下行走在白夜里的两个人（10.23）
 published: 2026-10-23
 description: '东野圭吾的黑暗巅峰之作：两个孩子在1973年大阪的一桩命案后，用十九年时间彼此照亮又彼此拖入深渊。'
-image: 'https://i0.hdslb.com/bfs/archive/e738a029532f20f025ecc01c75882c4ad4101375.png@672w_378h_1c_!web-search-common-cover'
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/book-share/2026-10-23-baiyexing.png'
 tags: ['读书分享', '侦探']
 category: '读书'
 draft: false
