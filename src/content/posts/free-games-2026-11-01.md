@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：MAFIA HOTEL 免费领进入最后一天，GOG、Steam 几款也快截止了（11.1）
 published: 2026-11-01
 description: 'Epic 本周没有新轮换，但独立促销的 MAFIA HOTEL 将在北京时间 11 月 2 日凌晨 1 点左右截止；GOG 的 A New Beginning: Final Cut、Steam 的 Asleep: Act 1 也都在 11 月 2 日前后到期，先领再说。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-01-mafia-hotel.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam', 'Humble Bundle']
 category: '游戏'
 draft: false
