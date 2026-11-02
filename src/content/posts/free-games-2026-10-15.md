@@ -2,7 +2,7 @@
 title: 每日免费游戏速递：Agent A、Bad Cheese 10.15 晚 11 点 Epic 开领
 published: 2026-10-15
 description: 'Epic 新轮换 Agent A 与 Bad Cheese 10 月 15 日 23 点开领，Out of Sight、TerraScape 同一时间下架；Prime（Luna）今日新增 Vampire: The Masquerade – Swansong 的 Epic 兑换码。'
-image: ''
+image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-10-15-agent-a.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'GOG', 'Humble Bundle']
 category: '游戏'
 draft: false
