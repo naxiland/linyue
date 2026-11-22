@@ -1,7 +1,7 @@
 ---
-title: 每日免费游戏速递：TerraScape 二度免费领，GOG 送 1998 年即时战略 WarBreeds（11.21）
+title: 每日免费游戏速递：TerraScape 七折促销，GOG 送 1998 年即时战略 WarBreeds（11.21）
 published: 2026-11-21
-description: "Epic 再次送出治愈建城小品 TerraScape，免费领到 12 月 21 日；Prime 会员可在 GOG 领走 1998 年即时战略 WarBreeds，Steam 还有五款新上架的免费游戏。"
+description: "Epic 治愈建城小品 TerraScape 七折促销，现价 11.89 美元；Prime 会员可在 GOG 领走 1998 年即时战略 WarBreeds，Steam 还有五款新上架的免费游戏。"
 image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-21-terrascape.jpg'
 tags: ['免费游戏', 'Epic', 'GOG', 'Steam']
 category: '游戏'
@@ -9,9 +9,11 @@ draft: false
 lang: ''
 ---
 
-今天的主角是一座浮空岛和一场 28 年前的外星战争：Epic 的 TerraScape 时隔一个多月再次免费送出，领取窗口长达一个月；GOG 那边则是 Prime 会员专享的 1998 年即时战略老游戏 WarBreeds；Steam 也悄悄上架了一批免费新游。周六早上，先领再说。
+今天的主角是一座浮空岛和一场 28 年前的外星战争：Epic 的 TerraScape 时隔一个多月再次上架促销，七折卖到 12 月 21 日；GOG 那边则是 Prime 会员专享的 1998 年即时战略老游戏 WarBreeds；Steam 也悄悄上架了一批免费新游。周六早上，先领再说。
 
-## TerraScape —— Epic 免费领
+> 更正：本文初版误将 TerraScape 的七折促销写成了免费领取，已修正——TerraScape 在 Epic 现价 11.89 美元（原价 16.99 美元），促销到北京时间 12 月 22 日 0 点，并非免费。
+
+## TerraScape —— Epic 七折促销
 
 ![TerraScape](https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-21-terrascape.jpg)
 
@@ -20,11 +22,11 @@ Bitfall Studios 的治愈系中世纪建城解谜：没有资源管理、没有�
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;"><iframe src="https://www.youtube.com/embed/o3_3734qayA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe></div>
 
 - **平台：** Epic Games Store（PC）
-- **原价：** 16.99 美元
-- **领取时间：** 11 月 21 日 16:00 UTC 起（北京时间 11 月 22 日 0 点），截止北京时间 12 月 22 日 0 点，以商店页面为准
-- **领取方式：** 打开 Epic 商店页面，点击"获取"，领取后永久入库
+- **现价：** 11.89 美元（原价 16.99 美元，七折）
+- **促销时间：** 北京时间 11 月 22 日 0 点起，截止北京时间 12 月 22 日 0 点，以商店页面为准
+- **购买方式：** 在 Epic 商店页面直接购买，入库后永久保留
 
-> 提醒：TerraScape 今年 10 月 8 日至 15 日已经在 Epic 送过一次，如果当时领过，库里已经有了，不用重复领。这次的领取窗口长达一个月，不用抢时间，慢慢领。
+> 提醒：TerraScape 今年 10 月 8 日至 15 日已经在 Epic 免费送过一次，如果当时领过，库里已经有了，不用再买。这次只是七折促销，不是免费。
 
 ## WarBreeds —— GOG 免费领（需 Prime 会员）
 
@@ -66,7 +68,7 @@ Steam 最近上架了一批免费新游，都是永久免费游玩、无领取�
 
 | 游戏 | 平台 | 类型 | 截止时间 |
 | --- | --- | --- | --- |
-| TerraScape | Epic | 免费领，永久保留 | 12 月 22 日 0:00（北京时间） |
+| TerraScape | Epic | 七折促销，11.89 美元（原价 16.99 美元） | 12 月 22 日 0:00（北京时间） |
 | WarBreeds | GOG（需 Prime） | 免费领，永久保留 | 2027 年 1 月 8 日 |
 | Kingslayers / Vanakatu / Temporal Strike / Property Inspection / Townlet | Steam | 免费游玩，永久保留 | 无截止日期 |
 | Mark of the Deep | Epic | 免费领，永久保留 | 11 月 27 日 0:00（北京时间） |
@@ -75,3 +77,4 @@ Steam 最近上架了一批免费新游，都是永久免费游玩、无领取�
 | Contractor: The Clean Up Part II | Epic | 免费领，永久保留 | 12 月 2 日 18:00（北京时间） |
 
 下周 Epic 预告：11 月 26 日起轮换为双人合作爬山游戏《Bread & Fred》和放置 RPG《Firestone》的礼包，免费领到 12 月 3 日。
+
