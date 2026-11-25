@@ -57,4 +57,4 @@ JackyGames 开发的休闲策略冒险，把自走棋和 Roguelike 揉在了一�
 | Contractor: The Clean Up Part 2 | Epic | 12 月 2 日 | $4.99 |
 | Auto Chess Souls（棋魂之弈） | Steam | 限时免费，以商店页面为准 | 完成后将转为付费 |
 
-先把《深渊之印》领了，它只剩今晚；《棋魂之弈》没有明确截止日期，同样建议尽快入库。明天的 Epic 轮换是《Bread and Fred》，记得回来看看。
+先把《深渊之印》领了，它明晚 0 点截止；《棋魂之弈》没有明确截止日期，同样建议尽快入库。明天的 Epic 轮换是《Bread and Fred》，记得回来看看。
