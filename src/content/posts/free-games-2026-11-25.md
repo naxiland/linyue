@@ -1,7 +1,7 @@
 ---
-title: "每日免费游戏速递：深渊之印最后一天免费领，Steam 自走棋新作限时白嫖（11.25）"
+title: "每日免费游戏速递：深渊之印明晚截止免费领，Steam 自走棋新作限时白嫖（11.25）"
 published: 2026-11-25
-description: "Epic 的《深渊之印》今晚 0 点截止，Steam 的《棋魂之弈》限时免费领，还有一款 Epic 清理模拟可以慢慢领到 12 月 2 日。"
+description: "Epic 的《深渊之印》明晚 0 点截止，Steam 的《棋魂之弈》限时免费领，还有一款 Epic 清理模拟可以慢慢领到 12 月 2 日。"
 image: 'https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-25-mark-of-the-deep.jpg'
 tags: ['免费游戏', 'Epic', 'Steam', 'Humble Bundle']
 category: '游戏'
@@ -9,9 +9,9 @@ draft: false
 lang: ''
 ---
 
-今天的主角只有一个字：快。Epic 本周的《深渊之印》今晚 0 点就截止，还没领的抓紧；Steam 那边一款自走棋 Roguelike 新作正在限时免费领，领了就是永久的；另外 Epic 还有一款清理模拟小品，截止到 12 月 2 日，可以慢慢来。GOG 本周暂时没有新的免费送。
+今天的主角只有一个字：快。Epic 本周的《深渊之印》明晚 0 点就截止，还没领的抓紧；Steam 那边一款自走棋 Roguelike 新作正在限时免费领，领了就是永久的；另外 Epic 还有一款清理模拟小品，截止到 12 月 2 日，可以慢慢来。GOG 本周暂时没有新的免费送。
 
-## 深渊之印（Mark of the Deep）—— Epic，今晚截止
+## 深渊之印（Mark of the Deep）—— Epic，明晚截止
 
 ![深渊之印](https://cdn.jsdelivr.net/gh/naxiland/images@main/free-games/2026-11-25-mark-of-the-deep.jpg)
 
